@@ -24,8 +24,8 @@
 #include <unistd.h>
 #include "termcap.h"
 #include "jcal.h"
-#include "../libjalali/jalali.h"
-#include "../libjalali/jtime.h"
+#include "jalali.h"
+#include "jtime.h"
 
 extern const char* jalali_months[];
 extern const char* jalali_days[];

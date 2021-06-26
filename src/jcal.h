@@ -21,8 +21,8 @@
 #ifndef JCAL_H
 #define JCAL_H
 
-#include "../libjalali/jalali.h"
-#include "../libjalali/jtime.h"
+#include "jalali.h"
+#include "jtime.h"
 
 #define JCAL_VALID_ARGS "13jyVNePp"
 #define PAHLAVI_ISLAMIC_DIFF 1180

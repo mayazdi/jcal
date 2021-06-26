@@ -30,8 +30,8 @@
 #include <getopt.h>
 #include <time.h>
 
-#include "../libjalali/jalali.h"
-#include "../libjalali/jtime.h"
+#include "jalali.h"
+#include "jtime.h"
 #include "jdate.h"
 
 extern char* optarg;
